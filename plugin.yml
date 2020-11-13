@@ -1,0 +1,8 @@
+---
+name: TestDatabaseAPI
+version: 1.0.0
+author: SubUrbanCradles
+main: TestDatabaseAPI\Main
+api: 3.0.0
+depend: DatabaseAPI
+...
